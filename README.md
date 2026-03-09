@@ -3,7 +3,7 @@
 <h2 align="center">Fernanda.exe</h2>
 
 <p align="center">
-curiosa por natureza • dev por consequência
+Curiosa por natureza • dev por consequência
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ linux user
 
 ### 🧠 sobre mim
 
-estudante de **ciência da computação** que gosta de entender  
+Estudante de **ciência da computação** que gosta de entender  
 como as coisas funcionam por dentro.
 
 normalmente estou:
