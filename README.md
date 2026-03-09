@@ -61,7 +61,7 @@ gerador de senha desktop com **electron**
 ### 🌙 onde me encontrar
 
 📍 Florianópolis  
-💼 https://www.linkedin.com/in/fernanda-amorim-duarte
+💼https://www.linkedin.com/in/fernanda-amorim-duarte-8883903a7/
 
 ---
 
