@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=140&section=header"/>
 
-<h2 align="center">fernanda.exe</h2>
+<h2 align="center">Fernanda.exe</h2>
 
 <p align="center">
 curiosa por natureza • dev por consequência
@@ -18,7 +18,7 @@ curiosa por natureza • dev por consequência
 ```bash
 $ whoami
 
-fernanda
+Fernanda
 computer science student
 frontend developer
 security curious
