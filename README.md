@@ -21,7 +21,7 @@ $ whoami
 Fernanda
 computer science student
 frontend developer
-security curious
+interested in security
 linux user
 ```
 
@@ -34,7 +34,7 @@ como as coisas funcionam por dentro.
 
 normalmente estou:
 
-- quebrando alguma coisa  
+- Quebrando alguma coisa  
 - tentando descobrir por que quebrou  
 - aprendendo algo novo no processo
 
