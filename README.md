@@ -2,8 +2,10 @@
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/Midstacksec?style=for-the-badge&color=6f42c1&logoColor=white)
-![GitHub stars](https://img.shields.io/github/stars/Midstacksec?style=for-the-badge&color=6f42c1&logoColor=white)
+<img src="https://img.shields.io/github/followers/Midstacksec?style=flat-square&label=Followers&color=6f42c1" alt="Followers">
+<img src="https://img.shields.io/github/stars/Midstacksec/Midstacksec?style=flat-square&label=Stars&color=6f42c1" alt="Stars">
+
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6f42c1&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;Sec+Ops+%26+Security+%F0%9F%94%90;Linux+Enthusiast+%F0%9F%90%A7;Always+Learning+%F0%9F%93%9A)
 
@@ -56,13 +58,12 @@ Atuação com suporte técnico especializado, atendimento ao cliente, uso de fer
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Midstacksec&repo=order-management-api&theme=dark&hide_border=true&title_color=6f42c1&icon_color=6f42c1)](https://github.com/Midstacksec/order-management-api)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Midstacksec&repo=Teste-order-management-api&theme=dark&hide_border=true&title_color=6f42c1&icon_color=6f42c1)](https://github.com/Midstacksec/Teste-order-management-api)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Midstacksec&repo=electron-password-generator&theme=dark&hide_border=true&title_color=6f42c1&icon_color=6f42c1)](https://github.com/Midstacksec/electron-password-generator)
 
 </div>
 
-- **order-management-api** &mdash; API RESTful construída com **Node.js** e **Express** para gerenciamento de pedidos.
-- **electron-password-generator** &mdash; Aplicativo desktop para geração segura de senhas, desenvolvido com **Electron**.
+- **Order Management API** &mdash; API RESTful constru&#237;da com **Node.js** e **Express** para gerenciamento de pedidos.- **electron-password-generator** &mdash; Aplicativo desktop para geração segura de senhas, desenvolvido com **Electron**.
 - **Osint-AI-Investigator** &mdash; Projeto de investigação com OSINT e Inteligência Artificial.
 - **HexaShield SOC Dashboard** &mdash; Dashboard de monitoramento de segurança.
 
