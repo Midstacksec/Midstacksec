@@ -24,8 +24,6 @@ Sou **Fernanda Duarte**, bacharel em **Ciência da Computação pela Unisul** e 
 
 Atuo na construção de interfaces e aplicações web com **React**, **TypeScript** e **Next.js**, integrando APIs e aplicando boas práticas de arquitetura, qualidade e segurança. Minha formação também abrange **Segurança da Informação**, **ISO 27002**, **OSINT**, metodologias investigativas e **Inteligência Artificial**.
 
-Tenho experiência profissional em suporte técnico e Customer Success, o que fortaleceu minha capacidade de investigar problemas, compreender necessidades reais e transformar contexto técnico em soluções claras.
-
 > Tecnologia bem construída combina engenharia, segurança e uma experiência que faça sentido para quem usa.
 
 ## Competências técnicas
@@ -60,15 +58,6 @@ Tenho experiência profissional em suporte técnico e Customer Success, o que fo
 - Segurança da informação e análise investigativa
 - Linux, automação e ferramentas para desenvolvimento
 - Aplicações de Inteligência Artificial em produtos e investigações
-
-## Experiência profissional
-
-### Tecimob — Suporte Técnico e Customer Success
-
-- Suporte e troubleshooting em plataformas web e mobile
-- Investigação e acompanhamento de incidentes técnicos
-- Gestão de atendimentos por CRM e sistemas de tickets
-- Comunicação com clientes focada em resolução, produto e experiência do usuário
 
 ## Formação e especializações
 
