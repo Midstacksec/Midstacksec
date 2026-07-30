@@ -9,11 +9,14 @@
 </div>
 
 <div align="center">
-  <a href="https://giphy.com/gifs/space-alien-universe-ct7KlkFRaMR4hHXgMp">
-    <img width="680" src="https://media.giphy.com/media/ct7KlkFRaMR4hHXgMp/giphy.gif" alt="Loop animado em pixel art com espaço, estrelas e tons roxos" />
+  <a href="https://giphy.com/gifs/engineering-engineer-programmer-O7x8QN7gMcsAxX8v2z">
+    <img height="30" src="https://media.giphy.com/media/O7x8QN7gMcsAxX8v2z/giphy.gif" alt="Blinkie animado sobre programação" />
   </a>
-  <br />
-  <sub>PLAYER ONE ENTERED THE CYBERSPACE · pixel loop by patternbase</sub>
+  <a href="https://giphy.com/gifs/coffee-need-more-QhEiaGEZFWnMzRDFtA">
+    <img height="30" src="https://media.giphy.com/media/QhEiaGEZFWnMzRDFtA/giphy.gif" alt="Blinkie animado sobre café" />
+  </a>
+  <br /><br />
+  <code>CODE · GAMES · BOOKS · ROCK · REPEAT</code>
 </div>
 
 <br />
