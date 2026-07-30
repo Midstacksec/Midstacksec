@@ -8,6 +8,16 @@
   </p>
 </div>
 
+<div align="center">
+  <a href="https://giphy.com/gifs/space-alien-universe-ct7KlkFRaMR4hHXgMp">
+    <img width="680" src="https://media.giphy.com/media/ct7KlkFRaMR4hHXgMp/giphy.gif" alt="Loop animado em pixel art com espaço, estrelas e tons roxos" />
+  </a>
+  <br />
+  <sub>PLAYER ONE ENTERED THE CYBERSPACE · pixel loop by patternbase</sub>
+</div>
+
+<br />
+
 ## Sobre mim
 
 Sou **Fernanda Duarte**, bacharel em **Ciência da Computação pela Unisul** e desenvolvedora baseada em **Florianópolis, SC**.
