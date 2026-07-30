@@ -80,22 +80,35 @@ Tenho experiência profissional em suporte técnico e Customer Success, o que fo
 | [Star Wars API Explorer](https://github.com/Midstacksec/ApiStarWarsExplorer) | Aplicação para consumo, organização e exploração de dados de API. |
 | [Portfólio](https://github.com/Midstacksec/Portf-lio-Fernanda-Duarte) | Portfólio pessoal desenvolvido com Next.js, TypeScript e CSS Modules. |
 
-## GitHub em números
+## Fora do terminal
+
+```text
+┌─ FERNANDA.EXE ────────────────────────────────────────┐
+│ CLASS       Software Developer                       │
+│ MAIN QUEST  Construir tecnologia bonita e segura     │
+│ SIDE QUESTS Jogos • livros • rock • cultura geek     │
+│ ALIGNMENT   Curiosa, investigativa e movida a café   │
+└──────────────────────────────────────────────────────┘
+```
+
+| Modo | O que me acompanha |
+|---|---|
+| Player 1 | Jogos com boas histórias, exploração e universos que prendem por horas |
+| Próximo capítulo | Ficção, fantasia, suspense e livros que alimentam novas ideias |
+| Trilha sonora | Rock para programar, investigar e atravessar aquela madrugada de debug |
+| Cultura geek | Tecnologia, mundos imaginários, referências obscuras e curiosidade sem fim |
+
+> Entre uma branch e outra, provavelmente estou explorando algum universo novo — em um jogo, em um livro ou nos fones de ouvido.
+
+---
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Midstacksec&show_icons=true&theme=transparent&title_color=C084FC&icon_color=C084FC&text_color=E8D5FF&border_color=4C1670&hide_border=false" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midstacksec&layout=compact&theme=transparent&title_color=C084FC&text_color=E8D5FF&border_color=4C1670" alt="Linguagens mais utilizadas" />
-</div>
-
-<div align="center">
-  <br />
-  <strong>Disponível para colaborar em projetos de desenvolvimento, segurança e tecnologia.</strong>
+  <strong>Aberta a conexões, projetos e boas conversas sobre tecnologia.</strong>
   <br /><br />
   <a href="https://www.linkedin.com/in/fernanda-amorim-duarte-8883903a7/">
-    <img src="https://img.shields.io/badge/Vamos_conversar-4C1670?style=for-the-badge&logo=linkedin&logoColor=white" alt="Entre em contato pelo LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-4C1670?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:4C1670,55:1A052B,100:0D0117&section=footer" alt="" />
+  <a href="https://github.com/Midstacksec?tab=repositories">
+    <img src="https://img.shields.io/badge/Explorar_projetos-1A052B?style=for-the-badge&logo=github&logoColor=C084FC" alt="Explorar projetos" />
+  </a>
 </div>
