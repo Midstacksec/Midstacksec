@@ -15,8 +15,6 @@
   <a href="https://giphy.com/gifs/coffee-need-more-QhEiaGEZFWnMzRDFtA">
     <img height="30" src="https://media.giphy.com/media/QhEiaGEZFWnMzRDFtA/giphy.gif" alt="Blinkie animado sobre café" />
   </a>
-  <br /><br />
-  <code>CODE · GAMES · BOOKS · ROCK · REPEAT</code>
 </div>
 
 <br />
@@ -25,7 +23,7 @@
 
 Sou **Fernanda Duarte**, bacharel em **Ciência da Computação pela Unisul** e desenvolvedora baseada em **Florianópolis, SC**.
 
-Atuo na construção de interfaces e aplicações web com **React**, **TypeScript** e **Next.js**, integrando APIs e aplicando boas práticas de arquitetura, qualidade e segurança. Minha formação também abrange **Segurança da Informação**, **ISO 27002**, **OSINT**, metodologias investigativas e **Inteligência Artificial**.
+Construo interfaces e aplicações web com **React**, **TypeScript** e **Next.js**, integrando APIs e aplicando boas práticas de arquitetura, qualidade e segurança.
 
 > Tecnologia bem construída combina engenharia, segurança e uma experiência que faça sentido para quem usa.
 
@@ -46,32 +44,11 @@ Atuo na construção de interfaces e aplicações web com **React**, **TypeScrip
 
 </div>
 
-| Desenvolvimento | Segurança e infraestrutura |
-|---|---|
-| React, TypeScript e Next.js | Segurança da Informação e ISO 27002 |
-| Arquitetura de sistemas e APIs REST | Linux e fundamentos de infraestrutura |
-| Interfaces responsivas e acessíveis | OSINT e metodologias investigativas |
-| Integração, versionamento e qualidade de código | Inteligência Artificial aplicada |
+## Formação
 
-## Áreas de atuação
+**Bacharelado em Ciência da Computação — Unisul**
 
-- Desenvolvimento frontend com React, TypeScript e Next.js
-- Integração e construção de APIs REST
-- Arquitetura e organização de aplicações web
-- Segurança da informação e análise investigativa
-- Linux, automação e ferramentas para desenvolvimento
-- Aplicações de Inteligência Artificial em produtos e investigações
-
-## Formação e especializações
-
-| Formação | Status |
-|---|:---:|
-| Bacharelado em Ciência da Computação — Unisul | Concluído |
-| React e TypeScript Avançado | Concluído |
-| Segurança da Informação e ISO 27002 | Concluído |
-| Arquitetura de Sistemas e APIs | Concluído |
-| OSINT e Metodologias Investigativas | Concluído |
-| Formação em Inteligência Artificial | Concluído |
+Especializações concluídas em **React e TypeScript**, **Segurança da Informação e ISO 27002**, **Arquitetura de Sistemas e APIs**, **OSINT** e **Inteligência Artificial**.
 
 ## Projetos em destaque
 
@@ -92,15 +69,6 @@ Atuo na construção de interfaces e aplicações web com **React**, **TypeScrip
 │ ALIGNMENT   Curiosa, investigativa e movida a café   │
 └──────────────────────────────────────────────────────┘
 ```
-
-| Modo | O que me acompanha |
-|---|---|
-| Player 1 | Jogos com boas histórias, exploração e universos que prendem por horas |
-| Próximo capítulo | Ficção, fantasia, suspense e livros que alimentam novas ideias |
-| Trilha sonora | Rock para programar, investigar e atravessar aquela madrugada de debug |
-| Cultura geek | Tecnologia, mundos imaginários, referências obscuras e curiosidade sem fim |
-
-> Entre uma branch e outra, provavelmente estou explorando algum universo novo — em um jogo, em um livro ou nos fones de ouvido.
 
 ---
 
